@@ -13,8 +13,11 @@ La empresa enfrenta un alto índice de evasión de clientes. El objetivo de este
 Plaintext
 TelecomX-Churn-Analysis/
 ├── 📄 TelecomX_Churn_Analysis.ipynb   # Notebook con el proceso ETL y EDA
+
 ├── 📊 TelecomX_Data_Final.csv         # Dataset procesado y listo para ML
+
 ├── 📝 README.md                       # Documentación del proyecto
+
 └── ⚙️ .gitignore                     # Archivos excluidos del repositorio
 
 # Análisis y Conclusiones
