@@ -11,10 +11,11 @@ La empresa enfrenta un alto índice de evasión de clientes. El objetivo de este
 
 # Estructura del Proyecto
 Plaintext
-├── TelecomX_Churn_Analysis.ipynb   # Notebook principal en Google Colab
-├── TelecomX_Data_Final.csv         # Dataset limpio y procesado (Output)
-├── README.md                       # Documentación del proyecto
-└── .gitignore                      # Archivos ignorados (opcional)
+TelecomX-Churn-Analysis/
+├── 📄 TelecomX_Churn_Analysis.ipynb   # Notebook con el proceso ETL y EDA
+├── 📊 TelecomX_Data_Final.csv         # Dataset procesado y listo para ML
+├── 📝 README.md                       # Documentación del proyecto
+└── ⚙️ .gitignore                     # Archivos excluidos del repositorio
 
 # Análisis y Conclusiones
 Durante el EDA, se identificaron factores clave que correlacionan con la evasión:
